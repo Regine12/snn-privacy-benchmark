@@ -1,0 +1,47 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files
+*.pt
+*.pth
+*.npz
+*.npy
+*.h5
+
+# Training outputs and logs
+outputs/
+logs/
+checkpoints/
+data/
+
+# Large dataset files
+spikes_wide.csv
+*.csv
+*.tar.gz
+*.parquet
+*.zip
+
+# Dataset directories
+E:/datasets/
+E:\datasets/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+.nfs*
