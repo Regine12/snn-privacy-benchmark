@@ -42,10 +42,6 @@ This project specifically examines:
 3. Run training: `python main_train.py --model vgg11 --epochs 5`
 4. Analyze results with the TVLA notebook: `compute_tvla.ipynb`
 
-## Repository Status
-
-🚀 This repository contains a complete research codebase for studying privacy vulnerabilities in spiking neural networks. The push is complete and all files are available locally.
-
 ---
 
 *Research at the intersection of neuromorphic computing and privacy-preserving AI.*
