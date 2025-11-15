@@ -45,3 +45,9 @@ env/
 .DS_Store
 Thumbs.db
 .nfs*
+
+# Large spike data directories
+spikes_*/
+cifar10-*/
+tvla_plots/
+snn_env/
